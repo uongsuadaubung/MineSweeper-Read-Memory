@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"boom"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Winmine__XP.exe+56A4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"time"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Winmine__XP.exe+579C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"so o da mo"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>010057A4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>010057BC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"cao"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>010056A8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"rong"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>010056AC</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>
